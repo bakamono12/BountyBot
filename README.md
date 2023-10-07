@@ -19,7 +19,3 @@ Are you a video enthusiast, a content wizard, or simply someone who loves to hav
 🗣️ **User-Friendly Interface:** Interact with BountyBot effortlessly using simple commands and a user-friendly interface.
 
 Join the fun with BountyBot today and unlock a world of rewards, engagement, and excitement in your Telegram group. Let's embark on this adventure together! 🚀
-
-[Insert Bot Invite Link]
-
-(Note: Be sure to include a link to invite users to your BountyBot in the [Insert Bot Invite Link] section.)
